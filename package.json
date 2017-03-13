@@ -1,0 +1,9 @@
+{
+  "name": "IFE2017",
+  "version": "1.0.0",
+  "description": "IFE2017 习题代码",
+  "main": "index.js",
+  "repository": "git@github.com:Amorites/IFE2017.git",
+  "author": "Amorite <lihongda0209@qq.com>",
+  "license": "MIT"
+}
